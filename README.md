@@ -7,8 +7,8 @@ STEP ONE:
 
 STEP TWO:
         Go to the "Keylogger" dir and inside of "Keylogger.py"
-        edit
-        EMAIL_ADDRESS = "[ENTER YOUR EMAIL HERE]" && EMAIL_PASSWORD = "[ENTER YOUR PASSWORD HERE]" 
+        
+        edit EMAIL_ADDRESS = "[ENTER YOUR EMAIL HERE]" && EMAIL_PASSWORD = "[ENTER YOUR PASSWORD HERE]" 
 
 
 STEP THREE:        
