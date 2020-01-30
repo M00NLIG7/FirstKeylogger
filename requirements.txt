@@ -1,0 +1,3 @@
+keyboard
+cx_Freeze
+idna
