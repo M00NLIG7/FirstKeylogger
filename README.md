@@ -1,5 +1,5 @@
 # FirstKeylogger
-This simple keylogger was developed by me FOR PRACTICAL USE ONLY.This was not created for malicious purposes.
+This simple keylogger was developed by me FOR PRACTICAL USE ONLY. This was not created for malicious purposes.
 
 STEP ONE:
         In cmd enter pip install -r requirments.txt
