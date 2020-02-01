@@ -2,7 +2,7 @@ from cx_Freeze import setup, Executable
 
 base = None    
 
-executables = [Executable("Keylogger.py", base=base)]
+executables = [Executable("FirstKeylogger.py", base=base)]
 
 packages = ["idna"]
 options = {
@@ -12,9 +12,9 @@ options = {
 }
 
 setup(
-    name = "<any name>",
+    name = "My First Key Logger",
     options = options,
-    version = "<any number>",
-    description = '<any description>',
+    version = "1.0.0",
+    description = 'This is my first attempt at creatining a user/noob friendly Key Logger',
     executables = executables
 )
